@@ -1,0 +1,119 @@
+# Cursor Rules
+
+## Instructions
+
+- Record fixes for mistakes or corrections to avoid repetition in the `Lessons` section.
+- Organize thoughts and plan steps before starting a task in the `Scratchpad` section.
+- Clear old tasks if necessary.
+- Use todo markers for progress tracking:
+  - `[X]` Completed tasks
+  - `[ ]` Pending tasks
+- Update Scratchpad after completing subtasks.
+- Reflect and plan after milestones for better task management.
+- Always refer to Scratchpad before planning the next step.
+
+## Lessons
+
+## Scratchpad
+
+
+#### 1. Project Setup and Configuration
+[ ] Initialize Next.js 15 project with TypeScript
+[ ] Set up project structure and organization
+[ ] Configure ESLint and Prettier
+[ ] Set up Shadcn UI components
+[ ] Install and configure required dependencies
+[✓] Initialize Next.js 15 project with TypeScript
+[✓] Set up project structure and organization
+[✓] Configure ESLint and Prettier
+[CURRENT] Install and configure required dependencies
+   - Add shadcn/ui
+   - Install lucide-react
+   - Set up prisma
+   - Add next-auth@beta
+   - Install zustand
+   - Add recharts
+   - Configure resend
+   - Set up uploadthing
+   - Install stripe
+   - Add zod for validation
+[ ] Set up environment variables
+
+#### 2. Database and Authentication
+[ ] Set up PostgreSQL database
+[ ] Configure Prisma and create initial schema
+[ ] Implement NextAuth.js authentication
+[ ] Create user roles (admin, customer)
+[ ] Set up email verification with Resend
+
+#### 3. Core Features - Admin Dashboard
+[ ] Create admin layout and navigation
+[ ] Implement dashboard overview with Recharts
+[ ] Product management CRUD operations
+[ ] Order management system
+[ ] User management interface
+[ ] Analytics and reporting
+[ ] Inventory management
+
+#### 4. Core Features - Store Front
+[ ] Design and implement homepage
+[ ] Create product listing and filtering
+[ ] Product detail pages
+[ ] Shopping cart using Zustand
+[ ] User profile and order history
+[ ] Search functionality
+[ ] Product categories and navigation
+
+#### 5. Media and File Management
+[ ] Set up Uploadthing for product images
+[ ] Implement image optimization
+[ ] Create media library for admin
+[ ] Handle multiple product images
+
+#### 6. Payment Integration
+[ ] Set up Stripe payment integration
+[ ] Implement checkout process
+[ ] Handle payment webhooks
+[ ] Order confirmation and emails
+[ ] Refund management
+
+#### 7. Advanced Features
+[ ] Implement wishlist functionality
+[ ] Add product reviews and ratings
+[ ] Create discount system
+[ ] Set up inventory notifications
+[ ] Add related products feature
+
+#### 8. Performance and Security
+[ ] Implement rate limiting
+[ ] Set up caching strategies
+[ ] Add input validation with Zod
+[ ] Security headers and best practices
+[ ] Error handling and logging
+
+#### 9. Testing and Deployment
+[ ] Write unit and integration tests
+[ ] Set up CI/CD pipeline
+[ ] Configure production environment
+[ ] Deploy to production
+[ ] Monitor performance and errors
+
+## Notes
+
+Key technical stack:
+- Next.js 15 with TypeScript
+- Shadcn for UI components
+- Lucide for icons
+- Zod for validation
+- Zustand for state management
+- Recharts for analytics
+- Resend for emails
+- Uploadthing for file uploads
+- Prisma with PostgreSQL
+- NextAuth beta for authentication
+- Stripe for payments
+
+## Tasks
+
+[ ] Begin with Project Setup and Configuration section
+
