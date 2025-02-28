@@ -42,6 +42,14 @@
 #### 2. Database and Authentication
 [ ] Set up PostgreSQL database
 [ ] Configure Prisma and create initial schema
+[✓] Set up PostgreSQL database
+[✓] Configure Prisma and create initial schema
+   - Added User model with authentication fields
+   - Created Product and Category models
+   - Implemented Order and OrderItem models
+   - Added Review system model
+   - Set up Cart and CartItem models
+   - Configured enums for Role and OrderStatus
 [ ] Implement NextAuth.js authentication
 [ ] Create user roles (admin, customer)
 [ ] Set up email verification with Resend
